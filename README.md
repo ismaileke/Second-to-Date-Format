@@ -1,4 +1,6 @@
 # Second-to-Date-Format
+A small function that converts seconds to dates
+
 # Usage:
 ```php
 $secondtodate = new secondtodate();
